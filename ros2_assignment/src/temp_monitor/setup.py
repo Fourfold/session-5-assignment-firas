@@ -26,6 +26,7 @@ setup(
             "temperature_sensor = temp_monitor.temperature_publisher:main",
             "temperature_alert = temp_monitor.threshold_subscriber:main",
             "alert = temp_monitor.alert_publisher:main",
+            "temperature_logger = temp_monitor.temperature_logger:main",
         ],
     },
 )

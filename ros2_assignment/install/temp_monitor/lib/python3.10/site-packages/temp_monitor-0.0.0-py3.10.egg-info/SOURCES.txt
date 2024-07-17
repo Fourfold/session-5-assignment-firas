@@ -12,6 +12,7 @@ launch/launch.py
 resource/temp_monitor
 temp_monitor/__init__.py
 temp_monitor/alert_publisher.py
+temp_monitor/temperature_logger.py
 temp_monitor/temperature_publisher.py
 temp_monitor/threshold_subscriber.py
 test/test_copyright.py
