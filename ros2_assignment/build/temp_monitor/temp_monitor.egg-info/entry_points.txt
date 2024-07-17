@@ -1,0 +1,5 @@
+[console_scripts]
+alert = temp_monitor.alert_publisher:main
+temperature_alert = temp_monitor.threshold_subscriber:main
+temperature_sensor = temp_monitor.temperature_publisher:main
+

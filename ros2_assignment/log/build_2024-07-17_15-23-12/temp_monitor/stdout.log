@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/temp_monitor/temp_monitor.egg-info/PKG-INFO
+writing dependency_links to ../../build/temp_monitor/temp_monitor.egg-info/dependency_links.txt
+writing entry points to ../../build/temp_monitor/temp_monitor.egg-info/entry_points.txt
+writing requirements to ../../build/temp_monitor/temp_monitor.egg-info/requires.txt
+writing top-level names to ../../build/temp_monitor/temp_monitor.egg-info/top_level.txt
+reading manifest file '../../build/temp_monitor/temp_monitor.egg-info/SOURCES.txt'
+writing manifest file '../../build/temp_monitor/temp_monitor.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying launch/launch.py -> /home/fourfold/dev/inmind sessions/inmind-session-5/session-5-assignment-firas/ros2_assignment/install/temp_monitor/share/temp_monitor/launch
+running install_egg_info
+removing '/home/fourfold/dev/inmind sessions/inmind-session-5/session-5-assignment-firas/ros2_assignment/install/temp_monitor/lib/python3.10/site-packages/temp_monitor-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/temp_monitor/temp_monitor.egg-info to /home/fourfold/dev/inmind sessions/inmind-session-5/session-5-assignment-firas/ros2_assignment/install/temp_monitor/lib/python3.10/site-packages/temp_monitor-0.0.0-py3.10.egg-info
+running install_scripts
+Installing alert script to /home/fourfold/dev/inmind sessions/inmind-session-5/session-5-assignment-firas/ros2_assignment/install/temp_monitor/lib/temp_monitor
+Installing temperature_alert script to /home/fourfold/dev/inmind sessions/inmind-session-5/session-5-assignment-firas/ros2_assignment/install/temp_monitor/lib/temp_monitor
+Installing temperature_sensor script to /home/fourfold/dev/inmind sessions/inmind-session-5/session-5-assignment-firas/ros2_assignment/install/temp_monitor/lib/temp_monitor
+writing list of installed files to '/home/fourfold/dev/inmind sessions/inmind-session-5/session-5-assignment-firas/ros2_assignment/build/temp_monitor/install.log'
